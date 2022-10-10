@@ -1,4 +1,4 @@
-# Project Lyrics
+# Spotify Clone (React)
 
 Develop an elegant React.js Music Application. 
 
